@@ -1,0 +1,4 @@
+#Mon Jan 08 23:19:05 IST 2018
+base.0=/home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/19
+path.0=classes.dex
+renamed.0=classes.dex
