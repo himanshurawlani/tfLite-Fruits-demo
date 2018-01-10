@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
-INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
-INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
-INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
 MERGED from [com.android.support:design:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/9ad6466fc03a52d7bd60ac43267da9d2/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:appcompat-v7:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/834e6d1d5b50c5057335306f4352578c/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f9b74c8252ea55211eb447e192808a03/AndroidManifest.xml:2:1-11:12
@@ -19,39 +19,39 @@ MERGED from [com.android.support:support-core-utils:25.2.0] /home/ubuntu/.gradle
 MERGED from [com.android.support:support-core-ui:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/5836c6296743c1f878735a1394df0136/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-compat:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/a58c792c128ce8a349e0cf8f59279c78/AndroidManifest.xml:17:1-27:12
 MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/17deb1559884a4da87e0d8a325d79f13/AndroidManifest.xml:2:1-6:12
-INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
-INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
-INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
 	package
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
-		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
-		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
-		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
 uses-permission#android.permission.CAMERA
-ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
 	android:name
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
 uses-feature#android.hardware.camera
-ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
 	android:name
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
 	android:name
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
 uses-sdk
-ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
-INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
-INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
 MERGED from [com.android.support:design:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/9ad6466fc03a52d7bd60ac43267da9d2/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/9ad6466fc03a52d7bd60ac43267da9d2/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/834e6d1d5b50c5057335306f4352578c/AndroidManifest.xml:21:5-23:78
@@ -82,21 +82,21 @@ MERGED from [com.android.support:support-compat:25.2.0] /home/ubuntu/.gradle/cac
 MERGED from [com.android.support:support-compat:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/a58c792c128ce8a349e0cf8f59279c78/AndroidManifest.xml:21:5-23:58
 MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/17deb1559884a4da87e0d8a325d79f13/AndroidManifest.xml:4:4-45
 MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/17deb1559884a4da87e0d8a325d79f13/AndroidManifest.xml:4:4-45
-INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
-INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/9ad6466fc03a52d7bd60ac43267da9d2/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
-		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:15-41
-		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		MERGED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:15-41
-		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml
+		MERGED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:5-40:19
+ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:28:5-40:19
 MERGED from [com.android.support:design:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/9ad6466fc03a52d7bd60ac43267da9d2/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:design:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/9ad6466fc03a52d7bd60ac43267da9d2/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.2.0] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/834e6d1d5b50c5057335306f4352578c/AndroidManifest.xml:25:5-20
@@ -126,26 +126,26 @@ MERGED from [com.android.support:support-compat:25.2.0] /home/ubuntu/.gradle/cac
 MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/17deb1559884a4da87e0d8a325d79f13/AndroidManifest.xml:4:45-5:18
 MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /home/ubuntu/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/17deb1559884a4da87e0d8a325d79f13/AndroidManifest.xml:4:45-5:18
 	android:label
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:29:9-41
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:29:9-41
 	android:icon
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:30:9-45
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:30:9-45
 	android:allowBackup
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:18-44
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:28:18-44
 	android:theme
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:9-45
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:31:9-45
 activity#com.example.android.tflitecamerademo.CameraActivity
-ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:9-39:20
+ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:33:9-39:20
 	android:label
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:19-51
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:34:19-51
 	android:name
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:19-85
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:33:19-85
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:13-38:29
+ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:35:13-38:29
 action#android.intent.action.MAIN
-ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:36:17-69
+ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:36:25-66
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:37:17-77
+ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:37:27-74
+		ADDED from /home/ubuntu/Desktop/Anaconda_old/tensorflow_practice/tfLite-Fruits-demo/android/tflite/app/src/main/AndroidManifest.xml:37:27-74
